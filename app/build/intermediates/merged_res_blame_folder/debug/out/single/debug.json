@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_player_buttons.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout-v23\\player_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_artist_details.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\artist_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_buttons.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\player_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_sliding_panel.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\sliding_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_album_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout-v23\\album_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_artist_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout-v23\\artist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_equalizer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_equalizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_pause_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_info.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\player_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_repeat.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_seek.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\player_seek.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\album_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_controls_panel.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\controls_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_skip_next_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkbox_marked.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_marked.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\song_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_invert_colors.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_invert_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_option.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\color_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\music_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkbox_blank.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_play_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_view.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\settings_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_artist_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\layout\\artist_item.xml"
+    }
+]

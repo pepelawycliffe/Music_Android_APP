@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "721",
+                        "endColumns": "100",
+                        "endOffsets": "817"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\values-it\\strings.xml",
+                    "from": {
+                        "startLines": "1,9,4,5,2,8,6,3,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,589,180,242,69,512,299,115,362",
+                        "endColumns": "50,101,60,55,44,75,61,63,148",
+                        "endOffsets": "63,686,236,293,109,583,356,174,506"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,208,269,325,370,446,508,572",
+                        "endColumns": "50,101,60,55,44,75,61,63,148",
+                        "endOffsets": "101,203,264,320,365,441,503,567,716"
+                    }
+                }
+            ]
+        }
+    ]
+}

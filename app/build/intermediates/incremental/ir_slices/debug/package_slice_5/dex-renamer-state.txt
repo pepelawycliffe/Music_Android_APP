@@ -1,0 +1,4 @@
+#Fri Sep 28 16:53:45 NPT 2018
+base.0=E\:\\Projects for code-projects\\android projects\\Music-Player-GO-master\\project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

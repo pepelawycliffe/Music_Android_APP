@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ua\\values-ua.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\project\\app\\src\\main\\res\\values-ua\\strings.xml",
+                    "from": {
+                        "startLines": "1,9,4,5,2,8,6,3,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,518,173,234,71,458,283,114,343",
+                        "endColumns": "52,102,59,47,41,58,58,57,113",
+                        "endOffsets": "65,616,228,277,108,512,337,167,452"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,211,271,319,361,420,479,537",
+                        "endColumns": "52,102,59,47,41,58,58,57,113",
+                        "endOffsets": "103,206,266,314,356,415,474,532,646"
+                    }
+                }
+            ]
+        }
+    ]
+}

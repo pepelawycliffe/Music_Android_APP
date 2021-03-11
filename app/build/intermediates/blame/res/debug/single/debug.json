@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_info.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\album_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_sliding_panel.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\sliding_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_controls_panel.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\controls_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_pause_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkbox_marked.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_marked.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkbox_blank.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_artist_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\artist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_view.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\settings_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_option.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\color_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_buttons.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_invert_colors.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_invert_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_album_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout-v23\\album_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\music_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_play_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_notification.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_next_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ee69ba0853359dff3decc37300cb579e\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_repeat.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_artist_details.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\artist_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_item.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\song_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_seek.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_seek.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_player_buttons.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\layout-v23\\player_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_equalizer.xml.flat",
+        "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_equalizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\Music-Player-GO\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wycliffe pepela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\73826ae33306d5f26ddb2f91e39078b1\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

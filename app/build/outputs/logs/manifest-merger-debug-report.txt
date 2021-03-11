@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\730778db586674a895bff375855045ee\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\5b7674459d98898815b858ca36d6d379\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\47b02cad910dcdfd55088fbc0919463c\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32c85c9e9ec08d56d41417fd81fe6f97\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f8403b8a6a0886985494885c15e8aac5\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6f78845ca1ca3de9d467d4c1bdd74a15\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\896ca3056d389aaca8c7457779a6bac4\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f4a07ecc459cf61de0df685cb53b6d59\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\a9db6ba4d56d8d15f07eaf77a110ab30\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\90fc2c6319561173608a820b963e1421\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\b4cc76471c981cc44ee29bf4109833e6\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\45f40d503071a894280280ea2da15b05\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\730778db586674a895bff375855045ee\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\730778db586674a895bff375855045ee\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\5b7674459d98898815b858ca36d6d379\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\5b7674459d98898815b858ca36d6d379\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\47b02cad910dcdfd55088fbc0919463c\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\47b02cad910dcdfd55088fbc0919463c\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32c85c9e9ec08d56d41417fd81fe6f97\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32c85c9e9ec08d56d41417fd81fe6f97\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f8403b8a6a0886985494885c15e8aac5\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f8403b8a6a0886985494885c15e8aac5\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6f78845ca1ca3de9d467d4c1bdd74a15\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6f78845ca1ca3de9d467d4c1bdd74a15\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\896ca3056d389aaca8c7457779a6bac4\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\896ca3056d389aaca8c7457779a6bac4\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f4a07ecc459cf61de0df685cb53b6d59\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\f4a07ecc459cf61de0df685cb53b6d59\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\a9db6ba4d56d8d15f07eaf77a110ab30\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\a9db6ba4d56d8d15f07eaf77a110ab30\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\90fc2c6319561173608a820b963e1421\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\90fc2c6319561173608a820b963e1421\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\b4cc76471c981cc44ee29bf4109833e6\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\b4cc76471c981cc44ee29bf4109833e6\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\45f40d503071a894280280ea2da15b05\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\45f40d503071a894280280ea2da15b05\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\project\app\src\main\AndroidManifest.xml

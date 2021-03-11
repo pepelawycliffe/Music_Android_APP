@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settings_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+    <!-- OPTIONS -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/app_name"
+            android:foreground="@drawable/ripple"
+            android:onClick="openGitPage"
+            android:padding="16dp"
+            android:src="@drawable/ic_github" />
+
+        <ImageButton
+            android:id="@+id/eq"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/app_name"
+            android:foreground="@drawable/ripple"
+            android:onClick="openEqualizer"
+            android:padding="16dp"
+            android:src="@drawable/ic_equalizer" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/app_name"
+            android:foreground="@drawable/ripple"
+            android:onClick="switchTheme"
+            android:padding="16dp"
+            android:src="@drawable/ic_invert_colors" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/app_name"
+            android:foreground="@drawable/ripple"
+            android:onClick="closeSettings"
+            android:padding="16dp"
+            android:src="@drawable/ic_close" />
+    </LinearLayout>
+
+    <!-- COLORS OPTIONS -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/colors_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        tools:context="com.iven.musicplayergo.MainActivity" />
+</LinearLayout>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="accent_color"/>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <attr format="color" name="icon_color"/>
+    <attr format="color" name="popup_text_color"/>
+    <attr format="color" name="secondary_bg_color"/>
+    <color name="amber_A400">#FFC400</color>
+    <color name="blue_A400">#2979FF</color>
+    <color name="blue_gray_400">#78909C</color>
+    <color name="brown_400">#8D6E63</color>
+    <color name="cyan_A400">#00E5FF</color>
+    <color name="deep_orange_A400">#FF3D00</color>
+    <color name="deep_purple_A400">#651FFF</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_800">#212121</color>
+    <color name="green_A400">#00E676</color>
+    <color name="indigo_A400">#3D5AFE</color>
+    <color name="inverted">#060606</color>
+    <color name="light">#FAFAFA</color>
+    <color name="light_blue_A400">#00B0FF</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="orange_A400">#FF9100</color>
+    <color name="pink_A400">#F50057</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="purple_A400">#D500F9</color>
+    <color name="red_A400">#FF1744</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="teal_A400">#1DE9B6</color>
+    <dimen name="album_height">128dp</dimen>
+    <dimen name="album_width">96dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="fastscroll_default_thickness">8dp</dimen>
+    <dimen name="fastscroll_margin">0dp</dimen>
+    <dimen name="fastscroll_minimum_range">50dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_dim">256dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="albums">%s (albums: %d)</string>
+    <string name="app_name" translatable="false">Muzic_Player</string>
+    <string name="artist_info">&lt;b>Albums:\n&lt;/b>%1d\n\u2022\n&lt;b>Songs:\n&lt;/b>%2d</string>
+    <string name="bad_id">Play a song first!</string>
+    <string name="enjoy">Select a song</string>
+    <string name="eq">Equalizer</string>
+    <string name="error_no_music">No music on your phone</string>
+    <string name="no_browser">No browser found</string>
+    <string name="no_eq">No equalizer was found!</string>
+    <string name="perm_rationale">To let You play the music on your phone, Music Player GO needs access to your files</string>
+    <string name="playing_song" translatable="false">&lt;b>%1s&lt;/b>&lt;br/>%2s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="track_title" translatable="false">&lt;b>%1d\n\u2022\n&lt;/b>%2s</string>
+    <string name="unknown_year" translatable="false">N/A</string>
+    <style name="AlertDialogStyleInverted" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">?attr/accent_color</item>
+        <item name="android:background">@color/inverted</item>
+    </style>
+    <style name="AlertDialogStyleLight" parent="android:Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorAccent">?attr/accent_color</item>
+        <item name="android:background">@color/light</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="icon_color">@android:color/black</item>
+        <item name="secondary_bg_color">@color/light</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:navigationBarColor">@color/inverted</item>
+        <item name="android:statusBarColor">?attr/accent_color</item>
+        <item name="android:alertDialogTheme">@style/AlertDialogStyleLight</item>
+        <item name="android:colorEdgeEffect">?attr/accent_color</item>
+    </style>
+    <style name="AppThemeAmber" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/amber_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeAmberInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/amber_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBlue" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/blue_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBlueGray" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/blue_gray_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBlueGrayInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/blue_gray_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBlueInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/blue_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBrown" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/brown_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeBrownInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/brown_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeCyan" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/cyan_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeCyanInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/cyan_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeDeepOrange" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/deep_orange_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeDeepOrangeInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/deep_orange_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeDeepPurple" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/deep_purple_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeDeepPurpleInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/deep_purple_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGrayDark" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/gray_800</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGrayDarkInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/gray_800</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGrayLight" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/gray_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGrayLightInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/gray_400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGreen" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/green_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeGreenInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/green_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeIndigo" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/indigo_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeIndigoInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/indigo_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeInverted" parent="android:Theme.Material.NoActionBar">
+        <item name="icon_color">@android:color/white</item>
+        <item name="secondary_bg_color">@color/inverted</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:navigationBarColor">@color/inverted</item>
+        <item name="android:statusBarColor">?attr/accent_color</item>
+        <item name="android:alertDialogTheme">@style/AlertDialogStyleInverted</item>
+        <item name="android:colorEdgeEffect">?attr/accent_color</item>
+    </style>
+    <style name="AppThemeLightBlue" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/light_blue_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeLightBlueInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/light_blue_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeOrange" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/orange_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeOrangeInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/orange_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemePink" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/pink_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemePinkInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/pink_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemePurple" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/purple_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemePurpleInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/purple_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeRed" parent="AppTheme">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/red_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeRedInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/light</item>
+        <item name="accent_color">@color/red_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeTeal" parent="AppTheme">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/teal_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="AppThemeTealInverted" parent="AppThemeInverted">
+        <item name="popup_text_color">@color/inverted</item>
+        <item name="accent_color">@color/teal_A400</item>
+        <item name="android:seekBarStyle">@style/SeekBarStyle</item>
+    </style>
+    <style name="SeekBarStyle" parent="android:Widget.Material.SeekBar">
+        <item name="android:progressBackgroundTint">?attr/accent_color</item>
+        <item name="android:progressTint">?attr/accent_color</item>
+        <item name="android:colorControlActivated">?attr/accent_color</item>
+        <item name="android:thumbTint">?attr/accent_color</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <declare-styleable name="CoordinatorLayout"><attr format="reference" name="keylines"/><attr format="color|reference" name="statusBarBackground"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout"><attr name="android:layout_gravity"/><attr format="string" name="layout_behavior"/><attr format="reference" name="layout_anchor"/><attr format="integer" name="layout_keyline"/><attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr><attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr><attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FastScrollRecyclerView"><attr format="reference|color" name="fastScrollThumbColor"/><attr format="reference|color" name="fastScrollThumbInactiveColor"/><attr format="reference|color" name="fastScrollTrackColor"/><attr format="reference|color" name="fastScrollPopupBgColor"/><attr format="reference|color" name="fastScrollPopupTextColor"/><attr format="reference|dimension" name="fastScrollPopupTextSize"/><attr format="reference|dimension" name="fastScrollPopupBackgroundSize"/><attr format="enum" name="fastScrollPopupPosition">
+            <enum name="adjacent" value="0"/>
+            <enum name="center" value="1"/>
+        </attr><attr format="reference|boolean" name="fastScrollAutoHide"/><attr format="reference|integer" name="fastScrollAutoHideDelay"/><attr format="reference|boolean" name="fastScrollEnableThumbInactiveColor"/><attr format="reference|boolean" name="fastScrollThumbEnabled"/></declare-styleable>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/><attr name="android:fontStyle"/><attr name="android:font"/><attr name="android:fontWeight"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/><attr format="boolean" name="fastScrollEnabled"/><attr format="reference" name="fastScrollVerticalThumbDrawable"/><attr format="reference" name="fastScrollVerticalTrackDrawable"/><attr format="reference" name="fastScrollHorizontalThumbDrawable"/><attr format="reference" name="fastScrollHorizontalTrackDrawable"/></declare-styleable>
+</resources>
